@@ -6,6 +6,7 @@ It listens to your voice, converts speech to text (STT), sends it to a local lan
 
 No internet connection is required.
 All processing happens on your laptop.
+AI: Speech to text - Text to speech
 
 🖥️ System Requirements
 
